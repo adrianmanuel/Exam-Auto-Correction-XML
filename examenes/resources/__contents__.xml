@@ -1,0 +1,4 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examenes/resources" version="1" owner="admin" group="dba" mode="775" created="2017-01-16T18:01:04.939+01:00">
+    <acl entries="0" version="1"/>
+    <subcollection name="css" filename="css"/>
+</collection>

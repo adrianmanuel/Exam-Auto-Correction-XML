@@ -1,0 +1,73 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examenes" version="1" owner="admin" group="dba" mode="775" created="2017-01-16T18:01:04.881+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="preguntas.xql" skip="no" owner="admin" group="dba" mode="755" created="2017-01-29T17:33:03.917+01:00" modified="2017-02-02T17:01:28.911+01:00" filename="preguntas.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="index.html" skip="no" owner="admin" group="dba" mode="664" created="2017-01-16T18:01:04.926+01:00" modified="2017-02-02T15:46:53.132+01:00" filename="index.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="preguntes.xml" skip="no" owner="admin" group="dba" mode="644" created="2017-01-25T20:44:43.357+01:00" modified="2017-02-05T23:09:08.816+01:00" filename="preguntes.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="build.xml" skip="no" owner="admin" group="dba" mode="644" created="2017-01-16T18:01:04.982+01:00" modified="2017-01-16T18:01:05.386+01:00" filename="build.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="prueba.xql" skip="no" owner="admin" group="dba" mode="755" created="2017-01-18T20:14:26.696+01:00" modified="2017-02-06T01:50:06.566+01:00" filename="prueba.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="repo.xml" skip="no" owner="admin" group="dba" mode="664" created="2017-01-16T18:01:04.906+01:00" modified="2017-01-16T18:01:05.429+01:00" filename="repo.xml" mimetype="text/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="controller.xql" skip="no" owner="admin" group="dba" mode="775" created="2017-01-16T18:01:04.916+01:00" modified="2017-01-16T18:01:05.394+01:00" filename="controller.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="examen.html" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T12:55:42.998+01:00" modified="2017-02-06T17:44:11.567+01:00" filename="examen.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="contacto.html" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T12:56:12.529+01:00" modified="2017-02-06T12:18:46.385+01:00" filename="contacto.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="pre-install.xql" skip="no" owner="admin" group="dba" mode="775" created="2017-01-16T18:01:04.93+01:00" modified="2017-01-16T18:01:05.407+01:00" filename="pre-install.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="resultado.xql" skip="no" owner="admin" group="dba" mode="755" created="2017-01-24T16:36:11.632+01:00" modified="2017-02-06T16:13:06.477+01:00" filename="resultado.xql" mimetype="application/xquery">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="collection.xconf" skip="no" owner="admin" group="dba" mode="664" created="2017-01-16T18:01:04.912+01:00" modified="2017-01-16T18:01:05.392+01:00" filename="collection.xconf" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="102.png" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T18:24:36.177+01:00" modified="2017-01-18T18:24:36.177+01:00" filename="102.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="money.jpg" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T18:24:36.203+01:00" modified="2017-01-18T18:24:36.203+01:00" filename="money.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="paypal.jpg" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T18:24:36.223+01:00" modified="2017-01-18T18:24:36.223+01:00" filename="paypal.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="webmoney.jpg" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T18:24:36.244+01:00" modified="2017-01-18T18:24:36.244+01:00" filename="webmoney.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="yandex.jpg" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T18:24:36.265+01:00" modified="2017-01-18T18:24:36.265+01:00" filename="yandex.jpg" mimetype="image/jpeg">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="error-page.html" skip="no" owner="admin" group="dba" mode="664" created="2017-01-16T18:01:04.924+01:00" modified="2017-01-16T18:01:05.396+01:00" filename="error-page.html" mimetype="text/html">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="expath-pkg.xml" skip="no" owner="admin" group="dba" mode="664" created="2017-01-16T18:01:04.889+01:00" modified="2017-01-16T18:01:05.399+01:00" filename="expath-pkg.xml" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="boton.png" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T18:59:39.418+01:00" modified="2017-01-18T18:59:39.418+01:00" filename="boton.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="satis.png" skip="no" owner="admin" group="dba" mode="644" created="2017-01-18T17:56:51.363+01:00" modified="2017-01-18T17:56:51.363+01:00" filename="satis.png" mimetype="image/png">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="XMLResource" name="correction.xsl" skip="no" owner="admin" group="dba" mode="644" created="2017-02-05T18:44:54.46+01:00" modified="2017-02-05T18:46:49.324+01:00" filename="correction.xsl" mimetype="application/xml">
+        <acl entries="0" version="1"/>
+    </resource>
+    <subcollection name="templates" filename="templates"/>
+    <subcollection name="resources" filename="resources"/>
+    <subcollection name="modules" filename="modules"/>
+    <subcollection name="js" filename="js"/>
+</collection>

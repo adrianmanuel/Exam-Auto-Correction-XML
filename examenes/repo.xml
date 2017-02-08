@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo"><description>Examenes</description><author/><website/><status>alpha</status><license>GNU-LGPL</license><copyright>true</copyright><type>application</type><target>examenes</target><prepare>pre-install.xql</prepare><finish/><deployed>2017-01-16T18:01:05.427+01:00</deployed></meta>

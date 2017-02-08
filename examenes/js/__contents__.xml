@@ -1,0 +1,12 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/apps/examenes/js" version="1" owner="admin" group="dba" mode="755" created="2017-01-23T19:03:49.823+01:00">
+    <acl entries="0" version="1"/>
+    <resource type="BinaryResource" name="validar.js" skip="no" owner="admin" group="dba" mode="644" created="2017-02-06T00:38:17.602+01:00" modified="2017-02-06T16:25:16.712+01:00" filename="validar.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="comprobacion.js" skip="no" owner="admin" group="dba" mode="644" created="2017-01-24T16:06:56.152+01:00" modified="2017-02-06T16:14:50.912+01:00" filename="comprobacion.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+    <resource type="BinaryResource" name="enviar.js" skip="no" owner="admin" group="dba" mode="644" created="2017-02-06T12:18:35.402+01:00" modified="2017-02-06T16:15:31.402+01:00" filename="enviar.js" mimetype="application/x-javascript">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
