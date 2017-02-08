@@ -18,3 +18,5 @@ Puntos a mejorar
 - Aplicar el estilo xsl al xml.
 
 - Incorporar mejoras, contador de tiempo, nota final, registros en la web, permitir solo un intento y realizar backend para que los profesores puedan subir las preguntas.
+
+- Mejorar la estructura del proyecto, poniendo las imágenes usadas en una carpeta, para tener mejor organización.
